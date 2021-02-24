@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Montserrat:wght@500;600;700&family=Space+Mono:ital,wght@0,400;1,700&display=swap");
+
+:root {
+	--gray: #333;
+	--light-gray: #4f4f4f;
+}
+
+body {
+	margin: 0;
+	font-family: "Space Mono", monospace;
+}
+* {
+	box-sizing: border-box;
+}
+img {
+	max-width: 100%;
+}
+.header {
+	padding: 20px 24px;
+}
+@media screen and (min-width: 950px) {
+	.header {
+		padding: 40px 77px;
+	}
+}
+.header-title,
+.main-title,
+.main-description {
+	margin: 0;
+	color: var(--gray);
+}
+.header-title {
+	font-family: "Inconsolata", monospace;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.container-img {
+	margin: 62px 44px;
+	max-width: 540px;
+	height: 100%;
+}
+.main {
+	padding-left: 24px;
+	min-height: calc(100vh - 73px - 66px);
+}
+@media screen and (min-width: 650px) {
+	.main {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+	.container-img {
+		margin: 0;
+		flex-basis: 42%;
+	}
+	.container-texts {
+		flex-basis: 54%;
+	}
+}
+@media screen and (min-width: 950px) {
+	.main {
+		padding-left: 77px;
+	}
+	.container-img {
+		flex-basis: 38%;
+	}
+}
+.main-title {
+	margin-bottom: 30px;
+	font-size: 48px;
+	font-weight: 700;
+	letter-spacing: -0.035em;
+	max-width: 586px;
+}
+@media screen and (min-width: 950px) {
+	.main-title {
+		font-size: 64px;
+	}
+}
+.main-description {
+	font-size: 18px;
+	font-weight: 400;
+	letter-spacing: -0.035em;
+	color: var(--light-gray);
+	margin-bottom: 64px;
+}
+@media screen and (min-width: 950px) {
+	.main-description {
+		max-width: 380px;
+		font-size: 24px;
+	}
+}
+.btn-home {
+	font-family: "Space Mono";
+	text-transform: uppercase;
+	font-size: 14px;
+	background-color: var(--gray);
+	font-weight: 700;
+	padding: 24px 43px;
+	margin-bottom: 100px;
+	color: white;
+	border: none;
+}
+.footer {
+	font-family: "Montserrat";
+	color: #bdbdbd;
+	text-align: center;
+	font-family: Montserrat;
+	font-size: 14px;
+	padding: 24px;
+	font-weight: 600;
+}
+.footer__name {
+	font-weight: 700;
+	text-decoration: underline;
+}
+.footer__page-reference {
+	font-weight: 500;
+}
