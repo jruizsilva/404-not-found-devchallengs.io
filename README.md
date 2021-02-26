@@ -34,7 +34,7 @@
 
 ### Screenshot del sitio web
 
-![screenshot](https://awesomescreenshot.s3.amazonaws.com/image/1849999/6272225-16e6346f0b31b4713943471508c5b599.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20210224%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210224T015322Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=edc7d3b560c3e2573288182ae3729ffe348f9c13acf8c402012e4f101501028b)
+![screenshot](https://awesomescreenshot.s3.amazonaws.com/image/1849999/6272225-16e6346f0b31b4713943471508c5b599.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20210226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210226T190309Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=a133c4b1b2ef8e14c8addbebb3036d1772bbfd8b78ae4dc94ed6edb80c6507b5)
 
 ### Responsive Web Developer
 
