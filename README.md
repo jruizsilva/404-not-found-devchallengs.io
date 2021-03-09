@@ -24,7 +24,6 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-- [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
@@ -32,17 +31,12 @@
 
 ## Overview
 
-### Screenshot del sitio web
+![screenshot](https://awesomescreenshot.s3.amazonaws.com/image/1849999/6272225-16e6346f0b31b4713943471508c5b599.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20210309%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210309T161600Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=6bf9e498626aa1c3545e83f9d994c9b9e982405f001e8d51c21ee6f47f2dbe37)
 
-![screenshot](https://awesomescreenshot.s3.amazonaws.com/image/1849999/6272225-16e6346f0b31b4713943471508c5b599.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20210226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210226T190309Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=a133c4b1b2ef8e14c8addbebb3036d1772bbfd8b78ae4dc94ed6edb80c6507b5)
+## Responsive Web Developer
 
-### Responsive Web Developer
+### 404 Not Found Project #1
 
-#### 404 Not Found Project #1
-
-Este es el primer projecto del curso Responsive Web Developer propuesto por devchallenges.io
-
-- Puedes acceder al sitio web haciendo [click aqui](https://devchallenges-project-1.netlify.app/). Utiliza `ctrl + click` para abrir el enlace en una nueva pestaña
 - Aprendi a posicionar el footer siempre abajo
 - Utilice flex-box y medias queries
 
@@ -53,19 +47,13 @@ Este es el primer projecto del curso Responsive Web Developer propuesto por devc
 - HTML
 - CSS
 
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/paths/responsive-web-developer) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
-
-## Acknowledgements
+### Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 
-## Contact
+### Contact
 
 - Website [jruizsilva.netlify.app](https://jruizsilva.netlify.app)
 - GitHub [@jruizsilva](https://github.com/jruizsilva)
