@@ -31,7 +31,7 @@
 
 ## Overview
 
-![screenshot](https://awesomescreenshot.s3.amazonaws.com/image/1849999/6272225-16e6346f0b31b4713943471508c5b599.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20210309%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210309T161600Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=6bf9e498626aa1c3545e83f9d994c9b9e982405f001e8d51c21ee6f47f2dbe37)
+![screenshot](https://i.ibb.co/sQKCZ87/Not-Found-Challenge.png)
 
 ## Responsive Web Developer
 
